@@ -1,4 +1,4 @@
-# deep-learning-HAR
+# Deep-Learning-HAR
 **Human Activity Recognition**
 This project focuses on predicting user actions based on sensor data collected from a smartwatch. The dataset consists of CSV files containing sequences of points on the x/y/z axes for various actions performed by users. The goal is to develop models that can accurately classify these actions.
 
